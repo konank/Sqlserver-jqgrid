@@ -5,4 +5,6 @@ id int,
 namasiswa varchar,
 alamat varchar,
 kelas varchar,
-status int
+status 
+
+didalam saya lampirkan file siwa.sql menggunakan mysql database
