@@ -1,0 +1,8 @@
+Yang pertanma dilakukan adalah membuat database dengan nama siswa di SQL Server 2008 R2
+berikut adalah fieldnya ,
+
+id int,
+namasiswa varchar,
+alamat varchar,
+kelas varchar,
+status int
